@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ls $1 -b | cit c1-20 | sort
